@@ -4,5 +4,9 @@
     "undef": true,
     "strict": true,
     "unused": true,
-    "esnext": true
+    "esnext": true,
+    "globals": {
+        "q": true,
+        "_": true
+    }
 }
