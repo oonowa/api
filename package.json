@@ -1,0 +1,24 @@
+{
+  "name": "oonowaa-api",
+  "version": "0.0.1",
+  "description": "O'onowaa means moving (with the herd)",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/oonowa/api.git"
+  },
+  "dependencies": {
+    "bool.js": "0.5.9",
+    "booljs-mongoose": "0.2.1"
+  },
+  "keywords": [
+    "o'onowa",
+    "api",
+    "spaceappschallenge"
+  ],
+  "author": "Pablo Andrés Dorado Suárez <pandres95@gentebool.com>",
+  "license": "GPL-3.0"
+}

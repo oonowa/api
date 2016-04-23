@@ -1,0 +1,18 @@
+{
+
+    "development": {
+        "host": "localhost",
+        "database": "oonowa"
+    },
+
+    "test": {
+        "host": "localhost",
+        "database": "oonowa-test"
+    },
+
+    "production": {
+        "host": "db.gentebool.com",
+        "database": "oonowa"
+    }
+
+}
