@@ -20,5 +20,12 @@
     "spaceappschallenge"
   ],
   "author": "Pablo Andrés Dorado Suárez <pandres95@gentebool.com>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0",
+    "supertest-as-promised": "^3.1.0"
+  }
 }
