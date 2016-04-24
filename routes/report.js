@@ -21,18 +21,6 @@ module.exports = function (app) {
             url: '/reports',
             action: report.insert,
             cors: true
-        },
-        {
-            method: 'put',
-            url: '/reports/:id',
-            action: report.update,
-            cors: true
-        },
-        {
-            method: 'delete',
-            url: '/reports/:id',
-            action: report.delete,
-            cors: true
         }
     ];
 
